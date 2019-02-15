@@ -1,0 +1,47 @@
+{
+  "basic":{
+    "image":"images/pic.jpg",
+    "name":"Amrutha",
+    "email":"amruthasai@gmail.com",
+    "number":"91+9876555466",
+    "Address":"Pragati college,surampalem."
+  },
+  "career":{
+    "info":"To become a Software Engineer."
+  },
+  "education":[
+    {
+      "institute":"Pragati college",
+      "degree":"B.Tech",
+      "passout":"2021"
+    },
+    {
+
+        "institute":"SriChaitanya College",
+        "degree":"Inter",
+        "passout":"2017"
+    },
+  {
+
+      "institute":"Bhashyam School",
+      "degree":"ssc",
+      "passout":"2015"
+  }
+
+],
+    "technical":[
+      {
+      "info":"programming languages:",
+      "data":["c,c++,python,java"]
+    },
+    {
+      "info":"databases:",
+      "data":["oracle,mysql,tinydb"]
+    },
+    {
+      "info":"operating systems:",
+      "data":["windows,linux,unix"]
+
+    }
+  ]
+  }
